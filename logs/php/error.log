@@ -1,0 +1,2 @@
+[19-Jul-2023 03:04:38 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\hugom\Local Sites\la-china-futbol\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[19-Jul-2023 03:16:46 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\hugom\Local Sites\la-china-futbol\app\public\wp-includes\class-wp-customize-widgets.php on line 905
